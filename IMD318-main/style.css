@@ -1,0 +1,54 @@
+body {  
+       background-color:pink:
+color:brown;}
+body {
+font-family:times new roman;}
+	p {
+	color: green;}
+	
+	ol {background-color:cyan;
+	border: solid 2px;
+	border-color:red;
+	border-top-style: dotted;
+	border-bottom-style: dashed:
+	padding-top: 5px}
+	
+nav ul{ 
+	background-color:pink;
+	border: solid 2px brown;
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	overflow: hidden;
+	
+}
+
+nav a{
+    text-decoration:none;
+	color:black;
+	padding: 15px;
+	display: block;
+	text-align: center;
+		
+}	
+
+nav a:hover{
+	background-color:yellow;
+}
+
+nav li{
+float:left;}
+
+.bawah ul{
+	background-color:lightblue;
+}
+
+.bawah li{
+float:right}
+
+.bawah a:hover{
+	background-color:purple;
+}
+
+
+	
